@@ -1,2 +1,2 @@
-0	regex/c		=^[A-Z]+	School
-!:mime	text/plain
+0	regex/c		=^[A-Z]+	School file type
+!:mime	School
