@@ -10,5 +10,5 @@
        - 8-firstdelete ==> deletes the file /tmp/my_first_directory/betty
        - 9-fistdirdeletion ==> deletes teh directory /tmp/my_first_directory
        - 10-back ==> changes the directory to the previous one
-       - 11-lists ==> lists three directoies ./ (the current directory), ../ (the parent of the current directory, and /boot in such order
+       - 11-lists ==> lists three directoies . (the current directory), .. (the parent of the current directory, and /boot in such order
        
