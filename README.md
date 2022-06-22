@@ -1,3 +1,2 @@
 ### System Engineering and DevOps
-This is a repo of system engineering, Development, and Operation (DevOps)
-works are stored.
+This is a repo where system engineering and DevOps (Development and Operations) files are stored.
