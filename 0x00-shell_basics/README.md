@@ -8,4 +8,5 @@
        - 6-firstdirectory ==> a script which creates the directory /tmp/my_first_directory
        - 7-movethatfile ==> moves /tmp/betty to /tmp/my_first_directory/betty
        - 8-firstdelete ==> deletes the file /tmp/my_first_directory/betty
+       - 9-fistdirdeletion ==> deletes teh directory /tmp/my_first_directory
        
