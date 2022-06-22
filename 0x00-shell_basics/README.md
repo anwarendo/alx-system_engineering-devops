@@ -5,4 +5,5 @@
        - 3-listfiles ==> lists the contents of the current directory in the long format
        - 4-listmorefiles ==> lists all files including the hidden ones in the long format
        - 5-listfilesdigitonly ==> lists files and folders with numeric uid and gid in the long format including the hidden ones.
+       - 6-firstdirectory ==> a script which creates the directory /tmp/my_first_directory
        
