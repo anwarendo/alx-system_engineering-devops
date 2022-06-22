@@ -17,4 +17,5 @@
 
        * 100-Lets_move ==> moves all files that their name starts with upper case letter to /tmp/u directory 
        * 101-clean_emacs ==> cleans all emacs files ending with ~
+       * 102-tree ==> creates nested folders
        
