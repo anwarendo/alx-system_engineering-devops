@@ -15,5 +15,6 @@
        - 13-symbolic_link ==> creates a symbolic link to /bin/ls with the name __ls__
        - 14-copy_html ==> coppies files from the current working directory into it's parent if only the files are newer or doens't exit in the parent folder already.
 
-       * 16-clean_emacs ==> cleans all emacs files ending with ~
+       * 100-Lets_move ==> moves all files that their name starts with upper case letter to /tmp/u directory 
+       * 101-clean_emacs ==> cleans all emacs files ending with ~
        
