@@ -13,4 +13,6 @@
       * 11-directories_permissions ==> recursively change directories only permissions
       * 12-directory_permissions ==> make directory with permissions specified from the beginning
       * 13-change_group ==> change group ownership of the file "hello" to school
+
+      * 100-change_owner_and_group ==> changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
       
