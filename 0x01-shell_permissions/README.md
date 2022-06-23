@@ -8,4 +8,5 @@
       * 6-multiple_permissions ==> gives permissions like: executing for owner and group, and reaing only for others
       * 7-everybody ==> give permissions for all types of users to execute the file "hello"
       * 8-James_Bond ==> give all permissions for others but not allow any access for the owner and the group owner
+      * 9-John_Doe ==> will result in the permission mode -rwxr-x-wx for the file "hello"
       
